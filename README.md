@@ -41,7 +41,7 @@
 
 <br/>  
 
-### 📊 English Level (C1 Advanced)
+### 📊 English Level (A2 Advanced)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Reading-70%25-brightgreen?style=for-the-badge&logo=book&logoColor=white&labelColor=2f363d" alt="Reading" />
