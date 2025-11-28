@@ -1,4 +1,8 @@
-### <div align="center">💻 Hello, I'm Jhon Murillo 🎓 Computer Engineering Student | Backend Developer</div>  
+### <div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=500&color=58A6FF&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Jhon+Murillo;Computer+Engineering+Student;Backend+Developer)](https://git.io/typing-svg)
+
+</div>
   
 
 - 🔭 I'm currently working on my graduation project  
@@ -46,19 +50,6 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/UJohnnyU" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/jhon-kevin-murillo-martínez-johnnyjohnny" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=500&color=58A6FF&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Jhon+Murillo;Computer+Engineering+Student;Backend+Developer)](https://git.io/typing-svg)
-
-</div>
 
 ### 📊 English Level (C1 Advanced)
 
@@ -73,17 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UJhonnyU&layout=compact&langs_count=6&theme=dracula&title_color=58a6ff&icon_color=79ff97&bg_color=0d1117" alt="Top Languages" />
 </p>
 
-## 🛠️ My Tech Stack
-
-### Backend Development (My Expertise)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,prisma,sequelize,mongodb,mysql,postgresql,redis,docker,kubernetes,jest" />
-  </a>
-</p>
-
-**Nivel de Dominio:**
-```mermaid
 graph LR
     A[Node.js] --> B[Backend]
     C[Express] --> B
@@ -95,74 +75,28 @@ graph LR
 
 ## 🏆 Certifications & Achievements
 
+## 🏆 Certifications & Achievements
+
 <table align="center">
   <tr>
     <td align="center">
-      <a href="URL_DEL_CERTIFICADO">
-        <img src="https://img.shields.io/badge/Node.js%20Certification-2024-blue?style=for-the-badge&logo=node.js&logoColor=white" height="40" />
+      <a href="https://github.com/UJohnnyU/Certificates/blob/main/Certificado%20-%20Alura%20-%20Cursos%20%20GitGitHub.pdf">
+        <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Alura-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" />
       </a>
       <br />
-      <sub>Institución | Oct 2024</sub>
-    </td>
-    <td align="center">
-      <a href="URL_DEL_CERTIFICADO">
-        <img src="https://img.shields.io/badge/Backend%20Architecture-90%25-brightgreen?style=for-the-badge&logo=fastify&logoColor=white" height="40" />
-      </a>
-      <br />
-      <sub>Platzi | Dic 2024</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="URL_DEL_CERTIFICADO">
-        <img src="https://img.shields.io/badge/Docker%20Essentials-Completed-success?style=for-the-badge&logo=docker&logoColor=white" height="40" />
-      </a>
-      <br />
-      <sub>Udemy | Nov 2024</sub>
-    </td>
-    <td align="center">
-      <a href="URL_DEL_CERTIFICADO">
-        <img src="https://img.shields.io/badge/English%20C1-IELTS%207.5-blueviolet?style=for-the-badge&logo=duolingo&logoColor=white" height="40" />
-      </a>
-      <br />
-      <sub>British Council | 2024</sub>
+      <sub>Alura Latam | 2024</sub>
     </td>
   </tr>
 </table>
-</a>
-<a href="https://instagram.com/_johnny_sin_emocion_/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
 
+<p align="center">
+  <sub>
+    <a href="https://github.com/UJohnnyU/Certificates">
+      <img src="https://img.shields.io/badge/📁%20Ver%20todos%20los%20PDFs-161B22?style=for-the-badge&logo=github&logoColor=white" height="30" />
+    </a>
+  </sub>
+</p>
 <br />
-```
-<p align="center">
-  <a href="https://www.credly.com/badges/TU_ID">
-    <img src="https://images.credly.com/size/340x340/images/TU_ID.png" width="150" alt="Certificado AWS" />
-  </a>
-</p>
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UJhonnyU&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=79ff97" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UJhonnyU&theme=dracula&hide_border=true&background=0d1117&ring=58a6ff&fire=ff79c6&currStreakNum=58a6ff&sideNums=58a6ff" alt="GitHub Streak" />
-</p>
-
-## 🔥 Currently Working On
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=UJhonnyU&repo=PROJECTO_GRADUACION&theme=dracula&bg_color=0d1117" width="380" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=UJhonnyU&repo=BACKEND_API&theme=dracula&bg_color=0d1117" width="380" />
-    </td>
-  </tr>
-</table>
 
 ## 🔗 Connect with me
 
@@ -176,15 +110,9 @@ graph LR
   <a href="https://instagram.com/_johnny_sin_emocion_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:jhon.kevin.murillo@example.com">
+  <a href="mailto:jhonkevinmurillom@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 ---
-<div align="center">
-  
-  [![📋 View My Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-333?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-link.com)
-  [![📧 Contact Me](https://img.shields.io/badge/Contact%20Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tu-email@example.com)
-  
-</div>
