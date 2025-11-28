@@ -4,18 +4,13 @@
 
 </div>
   
-
 - 🔭 I'm currently working on my graduation project  
   
-
 - 🌱 I'm currently learning Node.js, Express, and Docker  
   
-
 <br/>  
 
-
 ## My Skill Set  
-
 
 ### Frontend  
 <div align="center">  
@@ -26,7 +21,6 @@
 </p>
 </div>
 
-
 ### Backend  
 <div align="center">  
 <p align="center">
@@ -35,7 +29,6 @@
   </a>
 </p>
 </div>
-
 
 ### DevOps  
 <div align="center">  
@@ -46,56 +39,93 @@
 </p>
 </div>
 
-
 <br/>  
-
-
 
 ### 📊 English Level (C1 Advanced)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Reading-95%25-brightgreen?style=for-the-badge&logo=markdown&logoColor=white&labelColor=2f363d" alt="Reading" />
-  <img src="https://img.shields.io/badge/Writing-85%25-yellowgreen?style=for-the-badge&logo=apacheopenoffice&logoColor=white&labelColor=2f363d" alt="Writing" />
-  <img src="https://img.shields.io/badge/Speaking-80%25-yellow?style=for-the-badge&logo=googlemeet&logoColor=white&labelColor=2f363d" alt="Speaking" />
-  <img src="https://img.shields.io/badge/Listening-90%25-green?style=for-the-badge&logo=spotify&logoColor=white&labelColor=2f363d" alt="Listening" />
+  <img src="https://img.shields.io/badge/Reading-70%25-brightgreen?style=for-the-badge&logo=book&logoColor=white&labelColor=2f363d" alt="Reading" />
+  <img src="https://img.shields.io/badge/Writing-50%25-yellowgreen?style=for-the-badge&logo=apacheopenoffice&logoColor=white&labelColor=2f363d" alt="Writing" />
+  <img src="https://img.shields.io/badge/Speaking-30%25-orange?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=2f363d" alt="Speaking" />
+  <img src="https://img.shields.io/badge/Listening-65%25-green?style=for-the-badge&logo=spotify&logoColor=white&labelColor=2f363d" alt="Listening" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UJhonnyU&layout=compact&langs_count=6&theme=dracula&title_color=58a6ff&icon_color=79ff97&bg_color=0d1117" alt="Top Languages" />
-</p>
-
-graph LR
-    A[Node.js] --> B[Backend]
-    C[Express] --> B
-    D[TypeScript] --> B
-    E[MongoDB] --> B
-    F[Docker] --> B
-    style A fill:#539e43,stroke:#333,stroke-width:2px
-    style B fill:#161b22,stroke:#58a6ff,stroke-width:3px
-
-## 🏆 Certifications & Achievements
+<br/>
 
 ## 🏆 Certifications & Achievements
 
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://github.com/UJohnnyU/Certificates/blob/main/Certificado%20-%20Alura%20-%20Cursos%20Logica%20de%20Programacion%2000.pdf">
+        <img src="https://img.shields.io/badge/Lógica%20de%20Programación-Alura-28A745?style=for-the-badge&logo=codecademy&logoColor=white" height="40" />
+      </a>
+      <br />
+      <sub>Alura LATAM | Dic 2022</sub>
+    </td>
+    <td align="center">
       <a href="https://github.com/UJohnnyU/Certificates/blob/main/Certificado%20-%20Alura%20-%20Cursos%20%20GitGitHub.pdf">
         <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Alura-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" />
       </a>
       <br />
-      <sub>Alura Latam | 2024</sub>
+      <sub>Alura LATAM | Ene 2023</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/UJohnnyU/Certificates/blob/main/Certificado%20-%20Alura%20-%20Cursos%20Logica%20de%20Programacion%2001.pdf">
+        <img src="https://img.shields.io/badge/JavaScript%20I-Alura-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" />
+      </a>
+      <br />
+      <sub>Alura LATAM | Ene 2023</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/UJohnnyU/Certificates/blob/main/Certificado%20-%20Alura%20-%20Cursos%20Logica%20de%20Programacion%2002.pdf">
+        <img src="https://img.shields.io/badge/JavaScript%20II-Alura-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" />
+      </a>
+      <br />
+      <sub>Alura LATAM | Ene 2023</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/UJohnnyU/Certificates/blob/main/Certificado%20-%20Alura%20-%20Cursos%20Fundamentos%20Agiles.pdf">
+        <img src="https://img.shields.io/badge/Fundamentos%20Ágiles-Alura-005A8C?style=for-the-badge&logo=scrumalliance&logoColor=white" height="40" />
+      </a>
+      <br />
+      <sub>Alura LATAM | Feb 2023</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/UJohnnyU/Certificates/blob/main/jhon-kevin-murillo-martnez-MongoDB-certificate.pdf">
+        <img src="https://img.shields.io/badge/Introducción%20a%20MongoDB-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="40" />
+      </a>
+      <br />
+      <sub>MongoDB Inc | May 2023</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/UJohnnyU/Certificates/blob/main/Certificado%20-%20Alura%20-%20Cursos%20SQLNoSQL.pdf">
+        <img src="https://img.shields.io/badge/SQL%20con%20MySQL-Alura-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40" />
+      </a>
+      <br />
+      <sub>Alura LATAM | Jun 2023</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/UJohnnyU/Certificates/blob/main/Certificado%20-%20Curso%20profesional%20de%20JavaScript.pdf">
+        <img src="https://img.shields.io/badge/JavaScript%20Profesional-CódigoFacilito-E74C3C?style=for-the-badge&logo=javascript&logoColor=white" height="40" />
+      </a>
+      <br />
+      <sub>CódigoFacilito | Sep 2025</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/UJohnnyU/Certificates">
+        <img src="https://img.shields.io/badge/📁%20Ver%20todos-161B22?style=for-the-badge&logo=github&logoColor=white" height="40" />
+      </a>
+      <br />
+      <sub>GitHub Repository</sub>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <sub>
-    <a href="https://github.com/UJohnnyU/Certificates">
-      <img src="https://img.shields.io/badge/📁%20Ver%20todos%20los%20PDFs-161B22?style=for-the-badge&logo=github&logoColor=white" height="30" />
-    </a>
-  </sub>
-</p>
 <br />
 
 ## 🔗 Connect with me
